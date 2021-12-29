@@ -1,0 +1,26 @@
+body{
+    background-size: cover;
+    background-position:center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#Status,#number_of_objects
+{
+font-size: 18px;
+font-family:'Times New Roman', Times, serif;
+}
+
+canvas{
+    box-shadow:10px 10px 10px chocolate;
+    border-radius:15px;
+    margin-top:30px;
+}
+
+
+
